@@ -17,7 +17,9 @@ A Chrome Extension and FastAPI-powered security tool that analyzes URLs in real 
 - JavaScript
 - Chrome Extension API
 
-## Authors
-- Harshith H
-- Sreehitha G
-- E Sai Brinda
+
+## 👥 Team
+
+- *E Sai Brinda* — [@github-username](https://github.com/username)
+- *Sreehitha G* — [@github-username](https://github.com/username)
+- *Harshith H* — [@github-username](https://github.com/username)
