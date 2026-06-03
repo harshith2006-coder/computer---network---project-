@@ -4,9 +4,9 @@ A Chrome Extension and FastAPI-powered security tool that analyzes URLs in real 
 
 ## 👥 Team
 
-- *E Sai Brinda* — [@github-username](https://github.com/username)
-- *Sreehitha G* — [@github-username](https://github.com/username)
-- *Harshith H* — [@github-username](https://github.com/username)
+- *E Sai Brinda* — [@github-username](br-INDA)
+- *Sreehitha G* — [@github-username](riotmasterr)
+- *Harshith H* — [@github-username](harshith2006-coder)
 
 ## Features
 - SSL Validation
